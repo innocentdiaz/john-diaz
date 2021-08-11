@@ -1,7 +1,9 @@
-### Hi there 👋
+<!-- ###  ✨ SKEPDIMI's Github Profile  ✨ -->
+![image](https://user-images.githubusercontent.com/30275860/129085092-d053a222-2437-4424-8fbc-1fc10bcd4936.png)
+
 
 <!--
-**SKEPDIMI/SKEPDIMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SKEPDIMI/SKEPDIMI** is a ✨ _special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
