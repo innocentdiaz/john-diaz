@@ -12,5 +12,5 @@
 
 https://jonathandiaz.me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKEPDIMI)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-daz)](https://github.com/anuraghazra/github-readme-stats)
 
