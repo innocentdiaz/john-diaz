@@ -12,5 +12,4 @@
 
 https://jonathandiaz.me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-diaz)](https://github.com/anuraghazra/github-readme-stats)
-
+**Currently working on:** [Stackshine](https://www.stackshine.io) - Unify the software you depend on.
