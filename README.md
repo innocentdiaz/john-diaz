@@ -1,6 +1,3 @@
-![](https://www.codewars.com/users/Johncdf/badges/small)
-
-
 
 **I'm John**, a software engineer helping teams bring ideas into reality.
 
