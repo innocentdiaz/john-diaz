@@ -1,12 +1,8 @@
+**I'm John**, a software engineer helping world-class teams to bring ideas into reality.
 
-**I'm John**, a software engineer helping teams bring ideas into reality.
-
-**I have worked jobs** for technologies I have learnt in a week, worked with talented remote teams, and helped build platforms from `rails new app`.
+**I've been featured in the NY Times**, have gone through the YCombinator batch alongside world-class teams, and helped build enterprise platforms from rails new app.
 
 **In my work as an engineer** I scope, develop, deploy, and support software systems and products.
-
-**More than writing code**, I create excellent experiences that users love. It's the work that fuels me.
-
-https://jonathandiaz.me
-
-**Currently working on:** [Stackshine](https://www.stackshine.io) - Unify the software you depend on.
+**
+More than writing code**, I love creating excellent customer experiences and software systems that power the world. It's the work that fuels me.
+https://jonathandiaz.netlify.com
