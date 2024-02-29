@@ -1,17 +1,10 @@
+# About
+Full-stack software developer. Working on building web systems, and wearing multiple hats, alongside top-talent teams.
 
-Full-stack software developer working on designing and developing web systems, and wearing multiple hats, alongside top-talent teams. Experienced with product development, possessing the ability to master hard things quickly.
-
-# Skills
- - Experienced in making architectural decisions for software services
- - Working understanding of software development principles, design principles, and agile methodologies 
- - Experience maintaining and deploying production-facing applications 
- - Experience working with databases (SQL and NoSQL) 
- - Experienced with version-control tools, and project collaboration tools like Jira, Github, etc.
- - Skilled at mastering new skills and adapting to new environments
- - Front-end Technologies JavaScript, React.js, Vue.js, Express.js, Tailwind 
- - Full-stack Languages Node, Ruby on Rails, Typescript 
- - Databases PSQL, Resque/queues, data-processing 
- - Mobile Development (React Native) 
- - Experience with DevOps (Heroku, Netlify, CircleCI, GitHub Actions) 
- - Network/Auth protocols: REST API, OAuth, JWT, SSO, GraphQL 
- - Some working production experience with ETL tools and ML
+# Currently tinkering 🛠️ with... [Ecosy](https://github.com/john-diaz/ecosy)🍃!
+Some ideas I'm playing around with:
+ - A.I.-powered web-platforms. 🤖
+ - What if there was a website which only had One page for everything? CRUD operations, inviting users, getting suggestions, from just *one* page? Instead of multiple UI forms for editing, there is one single unifyied form- the `MagicForm`, leveraging AI to know exactly what kind of operations the customer is trying to execute.
+ - How can the server-side leverage such an interface to do things like "automated" actions on via headless browsers? (example: `NaturalInterface.process({ data: { customer_id: 1, action: "Add items in customer's shopping cart to their Amazon cart" } type: "headless_browser" })`
+ - 
+![image](https://github.com/john-diaz/john-diaz/assets/30275860/ebecb02e-1e0e-42cc-910f-b07655de689d)
